@@ -13,3 +13,15 @@
 ### About Me
 
 Hello everyone! From school I was fond of creating websites. Course from IT-Academy "Website development with HTML, CSS and JavaScript" expanded and deepened my knowledge. I want to develop further in this direction. Discipline and the desire to get a new information will lead to success in the front-end direction.
+
+### Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* Sass/Scss
+* Bootstrap 5
+* Tailwind CSS
+* Git
+* Figma
+* Adobe Photoshop
