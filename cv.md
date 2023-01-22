@@ -25,3 +25,23 @@ Hello everyone! From school I was fond of creating websites. Course from IT-Acad
 * Git
 * Figma
 * Adobe Photoshop
+
+### Code snippet
+
+```
+const personOne = {
+    name: 'Rodion',
+    age: 18
+}
+
+function increasePersonAge (person) {
+    const updatedPerson = Object.assign({}, person)
+    updatedPerson.age += 1
+    return updatedPerson
+}
+
+const updatedPersonOne = increasePersonAge(personOne)
+console.log(personOne.age)
+console.log(updatedPersonOne.age)
+
+```
