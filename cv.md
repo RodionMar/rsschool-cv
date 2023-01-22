@@ -65,3 +65,9 @@ HTNL5, Scss
 ##### Stack:
 
 HTNL5, CSS3, Bootstrap 5
+
+### Education
+
+#### Courses:
+
+* IT-Academy "Website development with HTML, CSS and JavaScript"
