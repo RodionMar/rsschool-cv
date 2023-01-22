@@ -45,3 +45,23 @@ console.log(personOne.age)
 console.log(updatedPersonOne.age)
 
 ```
+
+### Experience
+
+#### Website BWA
+
+##### Stack:
+
+HTNL5, CSS3, JavaScript
+
+#### Website PL&G
+
+##### Stack:
+
+HTNL5, Scss
+
+#### Website The Coffee Roasters
+
+##### Stack:
+
+HTNL5, CSS3, Bootstrap 5
