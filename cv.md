@@ -71,3 +71,9 @@ HTNL5, CSS3, Bootstrap 5
 #### Courses:
 
 * IT-Academy "Website development with HTML, CSS and JavaScript"
+
+### Languages
+
+* English - A1
+* Russian - Native
+* Belarusian - Native
