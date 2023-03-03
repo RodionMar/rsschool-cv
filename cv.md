@@ -1,3 +1,5 @@
+![photo_2023-02-01_20-04-32](https://user-images.githubusercontent.com/96232672/222797996-fbb633d8-02dd-4ed5-9b9d-2cc2c62cccac.jpg)
+
 # Rodion Marmura
 
 ## Frontend Developer
@@ -70,7 +72,9 @@ HTNL5, CSS3, Bootstrap 5
 
 #### Courses:
 
-* IT-Academy "Website development with HTML, CSS and JavaScript"
+* IT-Academy "Website development with HTML, CSS and JavaScript"*
+
+![Screenshot_1 (1)](https://user-images.githubusercontent.com/96232672/222799901-3bde4c89-4878-47ae-a733-1cf6aac7ae34.png)
 
 ### Languages
 
